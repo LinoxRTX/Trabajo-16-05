@@ -110,7 +110,7 @@ Flexibilizar la interfaz según el contexto de uso, sin duplicar lógica de nego
 
 🔹 **3. Diagrama de Implementación UML**
 
-![Diagrama de Implementacion](diagramas/Diagrama%20de%20Implementación.png)
+- No pude realizar el diagrama 
 
 ### Despliegue Físico y decisiones técnicas:
 
