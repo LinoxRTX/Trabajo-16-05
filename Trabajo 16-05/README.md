@@ -36,9 +36,7 @@ El análisis funcional permitió identificar actores clave y sus respectivas int
 
 - **Paciente:** Solicita su turno para atención.
 - **Recepcionista:** Asigna turnos manualmente, consulta estado de filas.
-- **Supervisor Clínico:** Consulta métricas, configura prioridades y monitorea carga de atención.
 - **Sistema de Pantallas:** Dispositivo externo que visualiza el número actual llamado.
-- **Administrador del Sistema:** Gestiona usuarios, parámetros y servicios disponibles.
 
 **Casos de uso destacados:**
 
